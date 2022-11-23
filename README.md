@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nurmeden
 - 👀 I’m interested in backend-develop
-- 🌱 I’m currently learning Python(Django),Golang
+- 🌱 I’m currently learning Golang,Python(Django),JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
